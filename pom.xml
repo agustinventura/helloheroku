@@ -63,6 +63,10 @@
                             <mainClass>es.aguasnegras.helloheroku.Main</mainClass>
                             <name>webapp</name>
                         </program>
+			<program>
+				<mainClass>es.aguasnegras.helloheroku.Ticker</mainClass>
+				<name>ticker</name>
+			</program>
                     </programs>
                 </configuration>
                 <executions>
